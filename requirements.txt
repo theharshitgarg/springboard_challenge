@@ -172,5 +172,3 @@ websocket-client==0.37.0
 wsgiref==0.1.2
 xlwt==1.0.0
 yagmail==0.5.140
-zbar==0.10
-zbarlight==1.0.2
