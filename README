@@ -1,0 +1,7 @@
+This is a solution for springboard hiring challenge.
+To use the application, go through the following procedure:
+
+pip install -r requirements.text
+python main.py
+
+#open browser and type localhost:8000
