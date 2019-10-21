@@ -69,7 +69,7 @@ djangotoolbox==1.8.0
 djmail==0.3
 docopt==0.4.0
 docutils==0.12
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.1.6
 eventlet==0.17.4
 flasgger==0.5.13
