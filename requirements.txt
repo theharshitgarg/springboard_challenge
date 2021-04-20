@@ -31,7 +31,7 @@ SecretStorage==2.3.0
 Unidecode==0.4.19
 WTForms==1.0.5
 WTForms-JSON==0.2.10
-Werkzeug==0.9.4
+Werkzeug==0.15.3
 amqp==1.0.13
 anyjson==0.3.3
 argparse==1.2.1
