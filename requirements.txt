@@ -71,7 +71,7 @@ docopt==0.4.0
 docutils==0.12
 ecdsa==0.13
 enum34==1.1.6
-eventlet==0.17.4
+eventlet==0.31.0
 flasgger==0.5.13
 flask-mongoengine==0.7.0
 flask-paginate==0.4.1
