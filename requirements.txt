@@ -166,7 +166,7 @@ traitlets==4.2.2
 twilio==5.5.0
 twine==1.8.1
 uritemplate==3.0.0
-urllib3==1.12
+urllib3==1.26.5
 wcwidth==0.1.7
 websocket-client==0.37.0
 wsgiref==0.1.2
