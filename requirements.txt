@@ -111,7 +111,7 @@ num2words==0.5.3
 numpy==1.11.1
 oauthlib==1.1.2
 openpyxl==2.2.4
-paramiko==1.15.2
+paramiko==2.10.1
 path.py==8.2.1
 pathlib2==2.1.0
 pbr==1.10.0
