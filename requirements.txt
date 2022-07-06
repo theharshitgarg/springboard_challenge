@@ -95,7 +95,7 @@ jsondatabase==0.1.1
 jsonschema==2.5.1
 keyring==9.3.1
 kombu==2.5.16
-lxml==3.4.2
+lxml==4.9.1
 mailchimp==2.0.9
 matplotlib==1.5.1
 meld3==0.6.10
