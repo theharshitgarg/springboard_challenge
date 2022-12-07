@@ -44,7 +44,7 @@ boto==2.15.0
 boxsdk==1.5.3
 cairocffi==0.7.2
 celery==3.0.24
-certifi==2016.8.31
+certifi==2022.12.7
 cffi==1.7.0
 click==6.6
 clint==0.5.1
